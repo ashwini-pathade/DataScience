@@ -1,0 +1,3 @@
+The file is newly created on Git local repo
+The same fileis created with LS command
+This file is now being edited by using VIM command
